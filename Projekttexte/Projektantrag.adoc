@@ -1,0 +1,7 @@
+= Dashboard für Rennstation an TadeoT
+
+== Ist-Zustand
+Stationsleiter haben einen schlechten Überblick über gewisse Informationen.
+
+== Soll-Zustand
+Dashboard, um wichtige Informationen zusammenzufassen.
