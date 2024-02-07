@@ -9,7 +9,7 @@
 * Projektbeschreibung: Projekthauptaufgaben: Live Updating von Informationen, Einfügen von neuen Datensätzen, Vergleich zwischen Daten
 * Meilensteine: Initialisierung, Schnittstelle zu Highscore, Entwicklung von Funktionalitäten, Design des Dashboards, Testphase, Freistellung
 * Projektstart: 7.2.2024
-* Projektende: 20.6.2024
+* Projektende: 5.7.2024
 * Projektressourcen:  Computerhardware, Teammitglieder
 * Projektrisiken: kostenüberschreitungen, Minderwertige Arbeit, Verzögerungen aufgrund unvorhergesehene technische Probleme
 * Projektorganisation:
